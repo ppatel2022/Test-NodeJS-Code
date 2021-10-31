@@ -1,3 +1,4 @@
+// Available FREE API for getting IP address of router you are getting network.
 const request = require("request");
 let options = {
   'method': 'GET',
